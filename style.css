@@ -1,0 +1,177 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  .navbar{
+    background-color: #444343;
+  }
+  .container {
+    background: url('images/banner/banner3.png'), lightgray 50% / cover no-repeat;
+    background-size: cover;
+    justify-content: center;
+    text-align: right;
+  }
+  .contailer-bar {
+    padding: 230px;
+    justify-content: center;
+  }
+  .heding-tag {
+    font-size: 35px;
+  }
+  .paragraph-tag {
+    color: #444343;
+    font-size: 16px;
+    font-weight: 400px;
+  }
+  .btn {
+    color: #fff;
+    font-size: 20px;
+    padding: 10px;
+    border: 0px;
+    margin-top: 10px;
+    border-radius: 5px;
+    background: #f15b22;
+    cursor: pointer;
+  }
+  .btn:hover {
+    background-color: #fff;
+    color: #f15b22;
+  }
+  .left-side-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+  }
+  .container-background {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 200px;
+  }
+  .logo {
+    width: 451px;
+    height: 898px;
+  }
+  .h-tag {
+    font-size: 40px;
+    margin-bottom: 24px;
+  }
+  .paragraph {
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+  li {
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+  .plans-container {
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 30px;
+  }
+  .other-section {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    padding-left: 110px;
+    padding-right: 110px;
+  }
+  .other-section img {
+    margin-bottom: 30px;
+  }
+  .other-section h2 {
+    margin-bottom: 16px;
+  }
+  .other-section h4 {
+    color: #737272;
+  }
+  .section-btn {
+    color: #f15b22;
+    font-size: 20px;
+    padding: 10px;
+    border: 0px;
+    margin-top: 10px;
+    border-radius: 5px;
+    background: #fff;
+    cursor: pointer;
+    width: 160px;
+    height: 40px;
+  }
+  .conatiner-banner {
+    height: 243px;
+    width: 70%;
+    margin: auto;
+    margin-top: 50px;
+    padding-left: 65px;
+    padding-top: 60px;
+    border-radius: 8px;
+    background: url("images/watch.png"),
+    linear-gradient(90deg, #005FAC 0%, rgba(0, 95, 172, 0.00) 100%);
+    background-repeat: no-repeat;
+    background-blend-mode: overlay;
+  }
+  .conatiner-banner h1 {
+    font-size: 40px;
+    color: #fff;
+  }
+  .footer-container {
+    height: 60vh;
+    margin-top: 50px;
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 130px;
+    color: wheat;
+  }
+  .icon {
+    margin-right: 10px;
+    cursor: pointer;
+  }
+  .footer-container h1 {
+    font-size: 45px;
+    color: white;
+    margin-bottom: 10px;
+  }
+  .footer-container p {
+    font-size: 16px;
+    color: #fff;
+    margin-bottom: 24px;
+  }
+  .footer-container h5 {
+    font-size: 16px;
+    color: #fff;
+    margin-bottom: 20px;
+  }
+  .footer-email h1 {
+    font-size: 25px;
+    margin-bottom: 31px;
+  }
+  .footer-email input {
+    width: 325px;
+    height: 64px;
+    font-size: 18px;
+    padding-left: 21px;
+    border-radius: 8px;
+    background-color: black;
+    border: 1px solid #fff;
+    margin-bottom: 16px;
+  }
+  .footer-btn {
+    width: 170px;
+    height: 64px;
+    border: 0;
+    border-radius: 8px;
+    background: #fff;
+    font-size: 20px;
+    color: #f15b22;
+    cursor: pointer;
+  }
+  .footer-btn:hover {
+    background-color: #f15b22;
+    color: #fff;
+  }
+  
